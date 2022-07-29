@@ -1,5 +1,3 @@
 ### Java-switch is a java version easy switch tool for Windows 
 
-
-
-download:
+[Download](https://github.com/jingxiang/java-switch/releases)
